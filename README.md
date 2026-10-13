@@ -6,7 +6,7 @@ Built for the Databricks AI Social Impact (DAISI) Challenge, Singapore Edition 2
 
 [![HeatCheck risk map of Singapore subzones](assets/heatcheck-map.png)](https://anishonly121.github.io/heatcheck-sg/heatcheck_map_interactive.html)
 
-*Click the map to open the interactive version.*
+*Click the map to open the interactive version, or go to [the live map](https://anishonly121.github.io/heatcheck-sg/heatcheck_map_interactive.html).*
 
 ## The problem
 
