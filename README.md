@@ -4,6 +4,10 @@
 
 Built for the Databricks AI Social Impact (DAISI) Challenge, Singapore Edition 2026. Problem statement B1: HeatGuard, urban heat risk mapping for vulnerable communities.
 
+[![HeatCheck risk map of Singapore subzones](assets/heatcheck-map.png)](https://anishonly121.github.io/heatcheck-sg/heatcheck_map_interactive.html)
+
+*Click the map to open the interactive version.*
+
 ## The problem
 
 Singapore had at least 29 days of high heat stress in 2025, and it is now a super-aged society. 69,650 seniors aged 65 and above live in HDB 1-2 room flats, and 88,400 seniors live alone. Poverty, poor health and isolation all raise the risk of dying from heat.
